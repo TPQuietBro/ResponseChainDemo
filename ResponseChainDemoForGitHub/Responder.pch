@@ -1,0 +1,17 @@
+//
+//  Responder.pch
+//  ResponderChain
+//
+//  Created by 魏信洋 on 2017/8/5.
+//  Copyright © 2017年 com.allen. All rights reserved.
+//
+
+#ifndef Responder_pch
+#define Responder_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* Responder_pch */
+
+#import "constFile.h"
